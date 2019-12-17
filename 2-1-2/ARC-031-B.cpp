@@ -3,7 +3,7 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-
+// やってないよ
 int H, W;
 vector<string> field;
 bool visited[10][10];
